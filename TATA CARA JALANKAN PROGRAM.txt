@@ -1,0 +1,10 @@
+- download github nya dalam bentuk zip.
+- setelah itu download xammp dan instal
+- setelah itu menuju local c/xampp/htdocs
+- setelah di htdocs extrack file zip yang didownload dan ubah nama folder nya menjadi "laundry"
+- selanjutnya buka aplikasi xammp aktifkan apache dan mysql dengan mengklik start 
+- selanjutnya pilih mysql dan tekan admin untuk masuk ke databases
+- setelah masuk di phpmyadmin bikin database dengan nama "db_laundry" sesuai databases yang ada pada folder aplikasi
+- setelah itu klik databases db_laundry di phpmyadmin dan pilih import
+- selanjutnya import file databases yang ada pada folder aplikasi yang didownload tadi.
+- dan pegi ke google ketik "http://localhost/laundry"
